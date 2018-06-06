@@ -15,4 +15,4 @@ git config --global user.email “jaisingh051297@gmail.com.com”
 
 git remote add origin "https://github.com/jaisingh051297/hello-git.git" :    it is used to link githup repositary to your computer ( folder) repositery.
   
-git push -u orign master : it is used to upload your repositery to the githup.
+git push -u origin master : it is used to upload your repositery to the githup.
