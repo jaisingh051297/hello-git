@@ -1,0 +1,18 @@
+Repository:  It is a special kind of directory (folder) in which  Git keep an eye on it.
+
+git init :     This command is used to initialized .git hidden folder. which keeps track of all your files base on the commands that you use.
+
+
+git status :    This command is used to check status of your repository means what are things happen to this folder.
+
+git add git-commands.txt :       This command is used to tracks your file, what changes you made are track by git. if you not use this command, it only tell us changes but not track by git.
+
+git commit -m  "Add some base commands of git":   This command is used to create a checkpoint (Version) so that we can always check the changes made at that particular time instance.
+
+This command is used when you instal git in your windows fist time . To introduce your self to the git.
+git config --global user.name “Jai singh verma”
+git config --global user.email “jaisingh051297@gmail.com.com”
+
+git remote add origin "https://github.com/jaisingh051297/hello-git.git" :    it is used to link githup repositary to your computer ( folder) repositery.
+  
+git push -u orign master : it is used to upload your repositery to the githup.
